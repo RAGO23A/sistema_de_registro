@@ -4,3 +4,5 @@
 np install
 
 ```np install react```
+
+Sistema de registro 2
